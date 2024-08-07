@@ -53,3 +53,4 @@ panel.pack(pady=10)
 
 # Start the Tkinter event loop
 root.mainloop()
+# Author: Deathbringer98 @ https://github.com/Deathbringer98
