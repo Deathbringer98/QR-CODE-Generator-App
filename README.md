@@ -13,7 +13,7 @@ https://github.com/Deathbringer98/QR-CODE-Generator-App/blob/main/Qr%20code%20ge
 
 2. **Extract the RAR File**
 
-   Extract the contents of the `QR_CODE_Generator_App.rar` file to a convenient location on your computer.
+   Extract the contents of the `QR_CODE_Generator.rar` file to a convenient location on your computer.
 
 3. **Run the Application**
 
